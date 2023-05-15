@@ -13,3 +13,29 @@ Tópicos abordados neste repositório:
 - Dicas e estratégias para melhorar a pronúncia
 - Ferramentas e aplicativos úteis para o aprendizado de inglês
 - Sugestões de cursos, livros e sites recomendados
+
+
+## Vocabulário
+
+<div>
+  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="Ícone do YouTube" width="20" align="left">
+  <a href="https://www.youtube.com/@EnglishbyDrCooper">English by Dr Cooper</a>
+  <p> Na minha opnião, um dos melhores canais do youtube para aprender inglês e o vocabulário do dia a dia</p>
+</div>
+
+<div>
+  <img src="https://img.icons8.com/color/48/000000/dictionary.png" alt="Ícone de dicionário" width="20" align="left">
+  <a href="https://dictionary.cambridge.org/dictionary/english/"> Cambridge Dictionary</a>
+  <p> Dicionário de inglês excelente para descobrir significado de expressões ou palavras</p>
+</div>
+
+
+## Pronúncia
+
+<div>
+  <img src="" alt="Ícone de dicionário" width="20" align="left">
+  <a href="https://dictionary.cambridge.org/dictionary/english/"> Cambridge Dictionary</a>
+  <p> Dicionário de inglês excelente para descobrir significado de expressões ou palavras</p>
+</div>
+
+
