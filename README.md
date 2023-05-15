@@ -31,11 +31,14 @@ Tópicos abordados neste repositório:
 
 
 ## Pronúncia
-
 <div>
-  <img src="" alt="Ícone de dicionário" width="20" align="left">
-  <a href="https://dictionary.cambridge.org/dictionary/english/"> Cambridge Dictionary</a>
-  <p> Dicionário de inglês excelente para descobrir significado de expressões ou palavras</p>
+  <a href="https://elsaspeak.com/pt/"> Elsa Speak</a>
+  <p> Um aplicativo mobile muito útil para melhorar a pronúncia e a entonação para falar mais fluentemente </p>
 </div>
 
+## Listening
+<div>
+  <img src="https://img.icons8.com/color/48/000000/spotify.png" alt="Ícone do Spotify" width="20" align="left">
+  <a href="https://open.spotify.com/show/2inFmaAhRy479RLGm6XA1d?si=beda4352c189416a"> Daily Easy English Expression Podcast</a>
+</div>
 
